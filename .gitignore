@@ -202,3 +202,4 @@ cython_debug/
 
 # Results directory
 results/
+results.zip
