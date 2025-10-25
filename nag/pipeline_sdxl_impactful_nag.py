@@ -20,7 +20,7 @@ else:
     XLA_AVAILABLE = False
 
 
-class ImpactfulNAGStableDiffusionXLPipeline(NAGStableDiffusionXLPipeline):
+class NAGTimeStableDiffusionXLPipeline(NAGStableDiffusionXLPipeline):
     """
     NAG with timing from 'Impact of Negative Prompts':
     - Delay enabling NAG until nag_start fraction of the trajectory
