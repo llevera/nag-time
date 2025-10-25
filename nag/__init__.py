@@ -3,6 +3,6 @@
 #from .pipeline_wan_nag import NAGWanPipeline
 #from .pipeline_sd3_nag import NAGStableDiffusion3Pipeline
 from .pipeline_sdxl_nag import NAGStableDiffusionXLPipeline
-from .pipeline_sdxl_impactful_nag import ImpactfulNAGStableDiffusionXLPipeline
+from .pipeline_sdxl_impactful_nag import NAGTimeStableDiffusionXLPipeline
 #from .transformer_flux import NAGFluxTransformer2DModel
 #from .transformer_wan_nag import NagWanTransformer3DModel
