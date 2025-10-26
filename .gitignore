@@ -203,4 +203,5 @@ cython_debug/
 # Results directory
 results/
 results-nag/
+results*
 results.zip

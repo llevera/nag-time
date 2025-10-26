@@ -1,0 +1,25 @@
+[
+  { "prompt": "A photo of a person", "negative_prompt": "male" },
+  { "prompt": "A photo of a person", "negative_prompt": "female" },
+
+  { "prompt": "A photo of a person", "negative_prompt": "old" },
+  { "prompt": "A photo of a person", "negative_prompt": "young" },
+
+  { "prompt": "A photo of a person", "negative_prompt": "bright lighting" },
+  { "prompt": "A photo of a person", "negative_prompt": "dark lighting" },
+
+  { "prompt": "A photo of a pet", "negative_prompt": "dog" },
+  { "prompt": "A photo of a pet", "negative_prompt": "cat" },
+
+  { "prompt": "A photo from the 1960s", "negative_prompt": "colour" },
+  { "prompt": "A photo from the 1960s", "negative_prompt": "black and white" },
+
+  { "prompt": "A still painting of fruits", "negative_prompt": "grapes" },
+  { "prompt": "A still painting of fruits", "negative_prompt": "apples" },
+
+  { "prompt": "A landscape", "negative_prompt": "mountains" },
+  { "prompt": "A landscape", "negative_prompt": "trees" },
+
+  { "prompt": "A room with furniture", "negative_prompt": "window" },
+  { "prompt": "A room with furniture", "negative_prompt": "bed" }
+]
