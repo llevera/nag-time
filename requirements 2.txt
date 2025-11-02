@@ -1,0 +1,9 @@
+accelerate
+diffusers
+torch
+transformers
+sentencepiece
+jupyter
+ipykernel
+jupyterlab
+peft
